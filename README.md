@@ -1,4 +1,4 @@
-# my_browser_app
+# Krishna Electronics
 
 A new Flutter project.
 
